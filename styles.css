@@ -23,7 +23,7 @@ a:hover {
 
 /* Section Styles */
 
-.nav {
+nav {
   width: 100%;
   background: rgb(0, 0, 0);
   min-height: 30px;
@@ -90,7 +90,7 @@ header .profile-image:hover {
   color: white;
   border: 5px solid rgb(55, 193, 247);
 }
-.article {
+article {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
